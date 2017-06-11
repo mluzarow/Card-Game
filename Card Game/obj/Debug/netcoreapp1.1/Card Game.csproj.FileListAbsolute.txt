@@ -1,0 +1,9 @@
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\bin\Debug\netcoreapp1.1\Card Game.deps.json
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\bin\Debug\netcoreapp1.1\Card Game.runtimeconfig.json
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\bin\Debug\netcoreapp1.1\Card Game.runtimeconfig.dev.json
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\bin\Debug\netcoreapp1.1\Card Game.dll
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\bin\Debug\netcoreapp1.1\Card Game.pdb
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\obj\Debug\netcoreapp1.1\Card Game.csprojResolveAssemblyReference.cache
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\obj\Debug\netcoreapp1.1\Card Game.AssemblyInfo.cs
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\obj\Debug\netcoreapp1.1\Card Game.dll
+c:\users\mark\Documents\Visual Studio 2015\Projects\Card Game\Card Game\obj\Debug\netcoreapp1.1\Card Game.pdb
